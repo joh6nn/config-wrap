@@ -17,7 +17,7 @@ HELP
 
 show_version() {
 	cat <<VERSION
-shrepl, version 1.0 2015-03-27
+${script_name}, version 1.0 2015-03-27
 VERSION
 	exit 1
 }
